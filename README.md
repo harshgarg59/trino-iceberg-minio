@@ -1,1 +1,1 @@
-trino-minino setup with hive and iceberge 
+trino-minio setup with hive and iceberge 
